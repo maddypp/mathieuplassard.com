@@ -122,13 +122,6 @@ body {
     margin: auto;
   }
 
-  .notification-bar p {
-    padding: 0;
-    position: sticky;
-    left: 0;
-    font-size: 14px;
-  }
-
   .element,
   .frame,
   .carousel {
@@ -659,3 +652,4 @@ footer a:visited {
   text-decoration: none;
   color: #333;
 }
+
